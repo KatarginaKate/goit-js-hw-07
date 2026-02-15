@@ -1,0 +1,51 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.general-list {
+  list-style-type: none;
+  color: #2e2f42;
+}
+
+.item {
+  background: #f6f6fe;
+  width: 392px;
+  height: auto;
+  margin-bottom: 24px;
+  padding: 16px;
+}
+.all-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33;
+  letter-spacing: 0.04em;
+  margin-bottom: 16px;
+}
+.special-list li {
+  border: 1px solid #808080;
+  border-radius: 4px;
+  padding: 8px;
+  list-style-type: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+}
